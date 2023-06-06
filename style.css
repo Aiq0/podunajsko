@@ -103,6 +103,7 @@ h1.day-title {
 
 p {
 	color: #222;
+	font-size: 1.2em;
 }
 
 @media screen and (max-width:1100px) {
