@@ -17,6 +17,7 @@ div.flex-center {
 div.title {
 	color: #fff;
 	background: url(https://sacr3-files.s3-eu-west-1.amazonaws.com/_processed_/csm_Dunajsk%25C3%25A9%2520luhy%2520Banner%2520003_a1734c9047.jpg) center center no-repeat;
+	background-size: cover;
 	font-size: 1.5rem;
 	text-shadow: 1px 1px 2px #000;
 }
